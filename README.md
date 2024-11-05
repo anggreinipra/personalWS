@@ -89,7 +89,7 @@ If you'd like to connect, discuss tech, or collaborate on projects, feel free to
 Thanks for visiting, and stay tuned for updates on my journey as a software engineer!
 
 ---
-##### 2024 RevoU Student - anggreinipra. All Rights Reserved
+##### &copy; 2024 RevoU Student - anggreinipra. All Rights Reserved
 
 <!-- Summary:
 Intro: Gives a brief overview of the Revou FSSE program and its goals.

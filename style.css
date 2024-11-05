@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Calibri', sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #212121;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font: size 1rem;
+}
+
+header {
+    background-color: #E1306C;
+}
+
+.instagram-button {
+    background-color: #fcfcfc; 
+    color: rgb(56, 56, 56);
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #c9c9c9;
+}
+
+.instagram-button:hover {
+    background-color: #ababab; 
+    color: rgb(40, 40, 40);
+    box-shadow: 3px 3px 10px #b2b2b2;
+}
