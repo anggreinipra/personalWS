@@ -15,10 +15,25 @@ body {
 }
 
 header {
-    background-color: #E1306C;
+    background-color: #c1ffec;
+    display: flex;
+    /* flex-direction: column; */
+
 }
 
-.instagram-button {
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e0e0e0;
+    height: 40px;
+    width: 100%;
+    border-radius: 5px ;
+}
+}
+
+/* Button General Style */
+.button {
     background-color: #fcfcfc; 
     color: rgb(56, 56, 56);
     border: none;
@@ -27,10 +42,13 @@ header {
     cursor: pointer;
     border-radius: 5px;
     box-shadow: 2px 2px 5px #c9c9c9;
+    width:120px;
+    height: 50px;
 }
 
-.instagram-button:hover {
-    background-color: #ababab; 
+.button:hover {
+    background-color: #f4f4f4; 
     color: rgb(40, 40, 40);
     box-shadow: 3px 3px 10px #b2b2b2;
+
 }
